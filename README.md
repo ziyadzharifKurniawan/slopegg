@@ -25,24 +25,26 @@ Users can fake-buy stuff.
 ## 📸 preview
 
 **store**
-<img width="1869" height="1618" alt="image" src="https://github.com/user-attachments/assets/05c097da-f7e3-494a-b7f8-560c47420b21" />
+<img width="1853" height="1617" alt="image" src="https://github.com/user-attachments/assets/029e4db8-2cbf-43c9-8b84-a4df58c1543a" />
 
 **search**
-<img width="1898" height="1620" alt="image" src="https://github.com/user-attachments/assets/7600f68b-fddf-4250-9fec-168a3ac06f43" />
+<img width="1824" height="1583" alt="image" src="https://github.com/user-attachments/assets/c09521db-135b-458f-8a95-7ec986dfb919" />
 
 **transactions**
-<img width="1861" height="746" alt="image" src="https://github.com/user-attachments/assets/e68cac7d-fa9a-452c-9950-4a89e8cc9cf1" />
+<img width="1842" height="756" alt="image" src="https://github.com/user-attachments/assets/26d7318f-e801-420d-84b7-4209ee2b0b1b" />
 
 **sales reports**
-<img width="1795" height="1139" alt="image" src="https://github.com/user-attachments/assets/76edafba-132a-41d4-b772-3d5ac4b50e76" />
+<img width="1776" height="1162" alt="image" src="https://github.com/user-attachments/assets/d5155be8-af63-4e89-8ead-7da27b1afb6d" />
 
+**profile**
+<img width="1819" height="1147" alt="image" src="https://github.com/user-attachments/assets/86bc8453-afcb-4bb1-8811-59ff5438de48" />
 
 ---
 
 ## ⚙️ run locally
 
 ```bash
-git clone https://github.com/yourusername/electrostore.git
+git clone https://github.com/ziyadzharifKurniawan/slopegg.git
 cd //insertname//
 
 # backend
